@@ -1,0 +1,123 @@
+*{
+    box-sizing: border-box;
+    margin: 1;
+    padding: 0;
+}
+
+
+h1{
+    color: aliceblue;
+}
+
+
+p{
+    text-align:center
+}
+
+
+.parent1{
+    height:200px;
+    display: flex;
+    background-color: blue;
+    justify-content: space-evenly;  
+    border: 5px solid blue;
+    border-color: white;
+    
+}
+
+.child1{
+    width: 130px;
+    height: 180px;
+    background-color: rgb(30, 195, 137);
+    border: 3px solid green;
+    align-self:center;
+    margin-inline-end: 100px;
+}
+
+.child2{
+    width: 130px;
+    height: 180px;
+    background-color: rgb(30, 195, 137);
+    border: 3px solid green;
+    align-self:center;
+    margin-inline-end: 100px;
+}
+
+.child3{
+    width: 130px;
+    height: 180px;
+    background-color: rgb(30, 195, 137);
+    border: 3px solid green;
+    align-self:center;
+    margin-inline-end: 100px
+}
+
+.parent2{
+    border: 5px solid blue;
+    justify-content:space-evenly;
+    border-color: white;
+    background-color: blue;
+    justify-content: space-evenly;
+    align-self:center;
+    flex-direction:column-reverse
+}
+
+.child4{
+    height: 50px;
+    background-color: rgb(30, 195, 137);
+    border: 3px solid green;
+    
+}
+
+.child5{
+    height: 50px;
+    background-color: rgb(30, 195, 137);
+    border: 3px solid green;
+    align-self:center
+}
+
+.child6{
+    height: 50px;
+    background-color: rgb(30, 195, 137);
+    border: 3px solid green;
+    align-self:center
+}
+
+.parent3{
+    height:200px;
+    display: flex;
+    background-color: blue;
+    justify-content: space-evenly;  
+    border: 5px solid blue;
+    border-color: white;
+}
+
+.child7{
+    width: 130px;
+    height: 180px;
+    background-color: rgb(30, 195, 137);
+    border: 3px solid green;
+    align-self:center
+}
+
+.child8{
+    width: 130px;
+    height: 180px;
+    background-color: rgb(30, 195, 137);
+    border: 3px solid green;
+    align-self:center
+}
+
+.child9{
+    width: 130px;
+    height: 180px;
+    background-color: rgb(30, 195, 137);
+    border: 3px solid green;
+    align-self:center
+}
+
+
+
+
+
+

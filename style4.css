@@ -1,0 +1,98 @@
+body{
+     background-color:rgba(229, 30, 209, 0.094);
+     border:2px solid palevioletred;
+}
+
+h1{
+     background-color:palevioletred;
+     width:560px;
+     height:45px;
+     color:azure;
+     text-shadow: 0px 4px 1px purple, -1px 4px 1px plum
+}
+
+h3{
+     background-color: palevioletred;
+     padding: 0px 20px;
+     text-align: center;
+     border:2px solid palevioletred;
+     margin-top: 15px;
+     align-self:center
+}
+
+#espace{
+    color:palevioletred
+}
+
+header{
+    float:right;
+    padding:0 50px;
+    font-family: Arial, sans-serif
+}
+
+.about{
+    color:azure;
+    background-color:pink;
+    width:500px;
+    height:40px;
+}
+
+#texte1{
+    background-color: pink;
+    color:azure;
+    width: 480px;
+    padding: 0 40px
+}
+
+.texte2{
+    background-color:bisque
+}
+
+#img{
+    margin-left:47%
+}
+
+.info1{
+    font-family: Arial, sans-serif
+}
+
+footer{
+    background-color:pink;
+    padding: 0px 20px;
+    text-align: center;
+    margin-top: 3px;
+    align-self:flex-end
+}
+
+
+
+
+a:hover {
+    color:palevioletred;
+} 
+
+#flexbox{
+    width: 565px;
+    height: 318px;
+    background-color: pink;
+    border: 2px solid palevioletred;
+    align-self:center;
+    text-align: center;
+}
+
+#flexbox2{
+    background-color:pink;
+    padding: 0px 20px;
+    text-align: center;
+    border:2px solid palevioletred;
+    margin-top: 15px;
+    align-self:center
+}
+
+#tableau{
+    color:palevioletred
+
+
+
+
+}
